@@ -17,6 +17,6 @@ int main(){
         sum = 1/i + sum;
         printf("1/%.1f + ",i); 
     }
-     printf(".....\nresult = %lf.....", sum); 
+     printf(".....\nresult = %lf", sum); 
     return 0;
 }
