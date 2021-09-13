@@ -1,5 +1,9 @@
 #include<iostream>
+using namespace std;
+
 int main(){
-    std::cout<<"Hello World";
+    int sum = 6, dum= 4;
+    cout<<"Hello World"<<sum<<dum;
+
     return 0;
 }
