@@ -61,7 +61,7 @@ int main(){
         int no_6;
         printf("\nEnter your number:");
         scanf("%d",&no_6);
-        float No_6= no_6/3.281;
+        float No_6= no_6/1.609;
         printf("%d km = %.3f mile",no_6,No_6);
         
     }
