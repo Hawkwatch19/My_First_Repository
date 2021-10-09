@@ -7,7 +7,7 @@ int main(){
 
     if (select==1) //Length er converter
     {
-       printf("\nSelect a number:\n1. inch => cm   2. cm => inch\n3. ft => m   4. m=> ft\n5. mile => km   6. km => mile\n\nEnter the number that you want to select:  ");
+       printf("\nSelect a number:\n1. inch => cm     2. cm => inch\n3. ft => m     4. m=> ft\n5. mile => km     6. km => mile\n\nEnter the number:  ");
     int num;
     scanf("%d",&num);
 
