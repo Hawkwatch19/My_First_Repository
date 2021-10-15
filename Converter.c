@@ -14,7 +14,7 @@ int main(){
         if (num==1)
     {
         int no_1;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_1);
         float No_1= no_1*2.54;
         printf("%d inch = %.3f cm",no_1,No_1);
@@ -23,7 +23,7 @@ int main(){
         else if (num==2)
     {
         int no_2;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_2);
         float No_2= no_2/2.54;
         printf("%d cm = %.3f inch",no_2,No_2);
@@ -32,7 +32,7 @@ int main(){
         else if (num==3)
     {
         int no_3;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_3);
         float No_3= no_3/3.281;
         printf("%d ft = %.3f m",no_3,No_3);
@@ -41,7 +41,7 @@ int main(){
         else if (num==4)
     {
         int no_4;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_4);
         float No_4= no_4*3.281;
         printf("%d m = %.3f ft",no_4,No_4);
@@ -50,7 +50,7 @@ int main(){
         else if (num==5)
     {
         int no_5;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_5);
         float No_5= no_5*1.609;
         printf("%d mile = %.3f km",no_5,No_5);
@@ -59,7 +59,7 @@ int main(){
         else if (num==6)
     {
         int no_6;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_6);
         float No_6= no_6/1.609;
         printf("%d km = %.3f mile",no_6,No_6);
@@ -90,7 +90,7 @@ int main(){
         if (num==1)
     {
          int no_1;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_1);
         float No_1= no_1*101325.000;
         printf("%d atm = %.3f Pa",no_1,No_1);
@@ -98,7 +98,7 @@ int main(){
         else if (num==2)
         {
              int no_2;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_2);
         float No_2= no_2/101325.000;
         printf("%d Pa = %.10f atm",no_2,No_2);
@@ -106,7 +106,7 @@ int main(){
         else if (num==3)
         {
              int no_3;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_3);
         float No_3= no_3*760.000;
         printf("%d atm = %.3f mmHg",no_3,No_3);
@@ -114,7 +114,7 @@ int main(){
         else if (num==4)
         {
              int no_4;
-        printf("\nEnter the quantity:");
+        printf("\nNow, Enter the quantity:");
         scanf("%d",&no_4);
         float No_4= no_4/760.000;
         printf("%d mmHg = %.8f atm",no_4,No_4);
