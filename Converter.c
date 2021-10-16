@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int select;
-    printf("1. Length\n2. Area\n3. Volume\n4. Mass\n5. Velocity\n6. Pressure\n7. Energy\n8. Power\n9. Temperature\n10. Chemistry\n\n Select: ");
+    printf("1. Length\n2. Area\n3. Volume\n4. Mass\n5. Velocity\n6. Pressure\n7. Energy\n8. Power\n9. Temperature\n10. Chemistry\n\nSelect: ");
     scanf("%d",&select);
 
 
